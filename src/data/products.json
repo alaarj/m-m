@@ -1,0 +1,172 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Women clothes",
+      "image": "https://www.logolynx.com/images/logolynx/dc/dcfd2a55fd7a8b52fe67de7503b7ff2c.jpeg",
+      "products": [
+        {
+          "id": 0,
+          "image": "http://www.wholesaleclothesturkey.com/women-clothes-wholesale-istanbul%20(1).jpg",
+          "name": "Dress",
+          "price": 150
+        },
+        {
+          "id": 1,
+          "image": "https://ae01.alicdn.com/kf/HTB1D9WKGH9YBuNjy0Fgq6AxcXXas/ISHOWTIENDA-Women-Blouses-2019-Polka-Striped-Print-Long-Sleeve-V-Neck-Women-Shirts-Ladies-Blouses-Tunique.jpg",
+          "name": "Shirt",
+          "price": 80
+        },
+        {
+          "id": 2,
+          "image": "https://i5.walmartimages.com/asr/90a65e20-1047-4ca8-bfc7-cb7a33bc6aed.35c1141832eb348d794fe5d58afad599.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+          "name": "Pant",
+          "price": 90
+        },
+        {
+          "id": 3,
+          "image": "https://www.zimmermannwear.com/media/catalog/product/1/_/1.1938wcas.beg.beige-flat.jpg",
+          "name": "Bikini",
+          "price": 100
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Man clothes",
+      "image": "https://i.pinimg.com/474x/e9/e8/e4/e9e8e4f686220b7ec06852c9f5c49971.jpg",
+      "products": [
+        {
+          "id": 0,
+          "image": "https://target.scene7.com/is/image/Target/GUEST_4ef9c5c7-6ecf-46f6-b13a-ba9074750224?wid=488&hei=488&fmt=pjpeg",
+          "name": "Shirt",
+          "price": 50
+        },
+        {
+          "id": 1,
+          "image": "https://images.jdmagicbox.com/quickquotes/images_main/b07v9jlgz3-lailailaily-men-s-fashion-colorful-casual-personality-slim-fit-denim-jeans-pants-for-men-green-178947219-3m0km.jpg",
+          "name": "Pant",
+          "price": 10000
+        },
+        {
+          "id": 2,
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpoSNoupCEt8291ikST7a3OKmMPNTMw_f7Yg&usqp=CAU",
+          "name": "Jacket",
+          "price": 55
+        },
+        {
+          "id": 3,
+          "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/mh-5-17-shorts-1621294428.png?crop=0.502xw:1.00xh;0.498xw,0&resize=640:*",
+          "name": "Short",
+          "price": 20
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Women shoes",
+      "image": "https://previews.123rf.com/images/lumut/lumut1804/lumut180400361/99217204-women-shoes-logo-vector-template.jpg",
+      "products": [
+        {
+          "id": 0,
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH5ykztoHSbmoRZ71bjEwJum6PBLkFixdz-Q&usqp=CAU",
+          "name": "Platform",
+          "price": 250
+        },
+        {
+          "id": 1,
+          "image": "https://images-na.ssl-images-amazon.com/images/I/61C3PbdOp4L._AC_UL1500_.jpg",
+          "name": "Ankle strap",
+          "price": 300
+        },
+        {
+          "id": 2,
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4i_mQ_OYbOzuY50r9KKPRYo5uPxF8WCCw7KrhDbFiul7zk5nmsUCJY0MykTAyfRS2MaU&usqp=",
+          "name": "Classic pumps",
+          "price": 500
+        },
+        {
+          "id": 3,
+          "image": "https://cdn-img.prettylittlething.com/d/2/0/f/d20fbad4566f2e042e09aee75b9c4a56c2e3c5a3_shq8799_1.jpg",
+          "name": "Knee high boots",
+          "price": 650
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Men shoes",
+      "image": "https://previews.123rf.com/images/lumut/lumut1804/lumut180400367/99217219-men-s-shoes-logo-vector-template.jpg",
+      "products": [
+        {
+          "id": 0,
+          "image": "https://footwearnews.com/wp-content/uploads/2020/11/best-mens-chelsea-boot-3.jpg?w=1024",
+          "name": "boots",
+          "price": 120
+        },
+        {
+          "id": 1,
+          "image": "https://i.pinimg.com/originals/c0/45/13/c045130fb9edaa2707a2d06b81f29bf4.jpg",
+          "name": "Casual",
+          "price": 150
+        },
+        {
+          "id": 2,
+          "image": "https://image.menswearhouse.com/is/image/TMW/MW40_41JD_05_BELVEDERE_COGNAC_SET?$40MainPDP$",
+          "name": "Monk",
+          "price": 100
+        },
+        {
+
+      ]
+    },
+    {
+      "id": 4,
+      "name": "jewelry",
+      "image": "https://www.onlinelogomaker.com/blog/wp-content/uploads/2017/09/jewelry-logo-design.jpg",
+      "products": [
+        {
+          "id": 0,
+          "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/michael-kors-1613586682.jpg?crop=1.00xw:0.834xh;0,0.114xh&resize=480:*",
+          "name": "Women watch",
+          "price": 250
+        },
+        {
+          "id": 1,
+          "image": "https://static-01.daraz.pk/p/4a2520cebf83089d5ce60435b2f4c195.jpg_340x340q80.jpg_.webp",
+          "name": "Men watch",
+          "price": 300
+        },
+        {
+          "id": 2,
+          "image": "https://en.israelidiamond.co.il/wp-content/uploads/2017/04/Diamond-wedding-ring-626x322.png",
+          "name": "Ring",
+          "price": 500
+        },
+        {
+          "id": 3,
+          "image": "https://sc04.alicdn.com/kf/HTB15KL2MVXXXXaOaXXXq6xXFXXXK.jpg",
+          "name": "Necklace",
+          "price": 400
+        },
+        {
+          "id": 5,
+          "name": "Perfume",
+          "image": "https://image.shutterstock.com/image-vector/perfume-logo-260nw-695959450.jpg",
+          "products": [
+            {
+              "id": 0,
+              "image": "https://images-na.ssl-images-amazon.com/images/I/71xIMozOKYL._SL1500_.jpg",
+              "name": "Women Perfume",
+              "price": 250
+            },
+            {
+              "id": 1,
+              "image": "https://cdn.webshopapp.com/shops/29471/files/285004221/lattafa-perfumes-raghba-for-man-eau-de-parfum-100m.jpg",
+              "name": "Men Perfume",
+              "price": 500
+            }
+          ]
+        }
+  ]
+}
